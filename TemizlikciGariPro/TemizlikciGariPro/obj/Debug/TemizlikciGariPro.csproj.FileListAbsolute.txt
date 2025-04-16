@@ -1,0 +1,10 @@
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\obj\Debug\TemizlikciGariPro.csproj.AssemblyReference.cache
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\obj\Debug\TemizlikciGariPro.Properties.Resources.resources
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\obj\Debug\TemizlikciGariPro.csproj.GenerateResource.cache
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\obj\Debug\TemizlikciGariPro.csproj.CoreCompileInputs.cache
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\bin\Debug\TemizlikciGariPro.exe.config
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\bin\Debug\TemizlikciGariPro.exe
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\bin\Debug\TemizlikciGariPro.pdb
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\obj\Debug\TemizlikciGariPro.exe
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\obj\Debug\TemizlikciGariPro.pdb
+C:\Users\asus5\source\repos\TemizlikciGariPro\TemizlikciGariPro\obj\Debug\TemizlikciGariPro.Form1.resources
